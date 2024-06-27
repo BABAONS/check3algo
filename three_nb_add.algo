@@ -1,0 +1,7 @@
+Si (age ≤ 12) alors
+ticketPrice ← 10
+Sinon si (age ≥ 13 et age ≤ 17) alors
+ticketPrice ← 15
+Sinon
+ticketPrice ← 20
+Retourner ticketPrice
